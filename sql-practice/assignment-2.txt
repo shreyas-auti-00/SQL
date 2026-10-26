@@ -1,0 +1,29 @@
+1.Department Salary Analysis
+Find the total salary, average salary, and maximum salary for each department, considering only employees with more than 2 years of experience. Display departments where total salary > 5,00,000 AND average salary > 50,000. Sort by total salary descending.
+
+2.City Employee Analysis
+Find the employee count, minimum salary, and maximum salary for each city. Consider only employees earning more than 30,000. Display cities where employee count >= 5 AND maximum salary > 80,000. Sort by maximum salary descending.
+
+3.Department Experience Analysis
+Find the employee count, average experience, and maximum experience for each department. Consider only employees with salary > 40,000. Display departments where employee count > 3 AND average experience > 4 years. Sort by average experience descending.
+
+4.Gender Salary Analysis
+Find the count of employees, total salary, and average salary for each gender. Consider only employees from Pune. Display genders where count > 5 AND average salary > 45,000. Sort by average salary descending.
+
+5.City Salary Range
+Find the minimum salary, maximum salary, and average salary for each city. Consider only employees with more than 3 years of experience. Display cities where minimum salary > 30,000 AND maximum salary > 75,000 AND average salary > 50,000. Sort by average salary descending.
+
+6.Department Workforce Analysis
+Find the number of employees, total salary, and average experience for each department. Consider only employees whose salary is between 35,000 and 90,000. Display departments where employee count >= 4 AND total salary > 4,00,000. Sort by employee count descending.
+
+7.City Experience & Salary Analysis
+Find the employee count, average salary, and maximum experience for each city. Consider only employees with more than 2 years of experience. Display cities where employee count > 3 AND average salary > 45,000 AND maximum experience > 8 years. Sort by average salary descending.
+
+8.Department High Earners
+Find the count, average salary, and total salary for each department, considering only employees earning above 50,000. Display departments where count >= 3 AND average salary > 65,000. Sort by total salary descending.
+
+9.City-wise Employee Performance
+Find the employee count, average experience, and average salary for each city. Consider only employees with salary > 40,000. Display cities where employee count >= 5 AND average experience > 5 AND average salary > 55,000. Sort by average experience descending.
+
+10.Department Salary Distribution
+Find the minimum salary, maximum salary, average salary, and employee count for each department. Consider only employees with experience >= 3 years. Display departments where maximum salary > 1,00,000 AND average salary > 60,000 AND employee count >= 4. Sort by maximum salary descending.
