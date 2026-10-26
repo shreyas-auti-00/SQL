@@ -88,3 +88,5 @@ select top 1 salary from (select top 2 salary from employeedetail order by salar
 select sum(salary)as total_salary, department from employeedetail group by department
 --43 Write the query to get the department and department wise total(sum) salary, display it in ascending order according to salary.
 select department, sum(salary) as total_salary from employeedetail group by department order by total_salary asc
+--44  Write the query to get the department and department wise total(sum) salary, display it in descending order according to salary.
+select department, sum(salary)as total_salary from employeedetail group by department order by total_salary desc
