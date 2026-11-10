@@ -120,5 +120,3 @@ select 0/0 --error
 
 --110.
 select 0/9 --ans 0
-
---111.
