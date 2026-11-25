@@ -124,4 +124,10 @@ SELECT * FROM ( SELECT 1  UNION ALL SELECT 2 ) M
 --8). ). What would be the output of below query?
 SELECT sum(a) as [sum]  FROM ( SELECT 1 A UNION ALL SELECT NULL A) m
 
+--9). For 5/2, I want resut as 2.5, How you will do that in SQL Server?
+select cast(5 as float) / cast(2 as float)
+
+--10). what will be te output of te following query
+select case when 1=1 then 'shreyas1' when 2=2 then 'shreyas2' else 'shreyas3' end as Name
+--ans. shreyas1			(sql checks case statement in top to bottom , as soon as the conditon is true it stops checking further)
 
